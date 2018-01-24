@@ -36,7 +36,6 @@
     <div class="row">
         <div class="col-lg-12 text-center">
             <div id="myinfo"></div>
-            <
         </div>
     </div>
 </div>

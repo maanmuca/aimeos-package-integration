@@ -357,23 +357,23 @@
         },
         {
             "name": "aimeos/ai-swiftmailer",
-            "version": "2018.01.2",
+            "version": "2018.01.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/ai-swiftmailer.git",
-                "reference": "d098b91cf77b5afced15c4104a1b8fcf181ece61"
+                "reference": "c801d2a173ceb2756a403c9534e2cf4af3fb1b85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/ai-swiftmailer/zipball/d098b91cf77b5afced15c4104a1b8fcf181ece61",
-                "reference": "d098b91cf77b5afced15c4104a1b8fcf181ece61",
+                "url": "https://api.github.com/repos/aimeos/ai-swiftmailer/zipball/c801d2a173ceb2756a403c9534e2cf4af3fb1b85",
+                "reference": "c801d2a173ceb2756a403c9534e2cf4af3fb1b85",
                 "shasum": ""
             },
             "require": {
                 "aimeos/aimeos-core": "~2018.01",
                 "composer/installers": "^1.0",
                 "php": ">=5.3.3",
-                "swiftmailer/swiftmailer": ">=4.0"
+                "swiftmailer/swiftmailer": "~4.0||~5.0||~6.0"
             },
             "type": "aimeos-extension",
             "autoload": {
@@ -386,7 +386,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPL-3.0"
+                "LGPL-3.0-or-later"
             ],
             "description": "SwiftMailer adapter for Aimeos web shops and e-commerce solutions",
             "homepage": "https://aimeos.org/",
@@ -398,7 +398,7 @@
                 "shop",
                 "swiftmailer"
             ],
-            "time": "2018-01-03T21:05:16+00:00"
+            "time": "2018-01-24T21:36:52+00:00"
         },
         {
             "name": "aimeos/aimeos-core",
