@@ -15,7 +15,7 @@ Hi liam
   <li>11. In your browser put <strong>http://localhost:8000/</strong> or whatsoever is your configuration</li>
   <li>12. run in command line in the root of the project..<strong>php artisan aimeos:account the.liam.mehl@gmail.com --admin</strong>..to create an admin account</li>
   <li>13. Enter a password</li>
-  <li>14. Click on login as admin link </li>
+  <li>14. Click on <strong>login as admin</strong> link </li>
   <li>15. You must be in the aimeos management system!</li>
 </ul>
 
